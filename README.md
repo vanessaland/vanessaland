@@ -6,6 +6,7 @@ My name is Vanessa, welcome to my GitHub profile!
 - 🔭 I’m currently interested in data science and software engineering.
 - 😄 My pronouns are she/her/hers.
 - ⚡ A fun fact about me is I love music, art, and food.
+- 💻 I practice algorithms and data structures using [HackerRank](https://www.hackerrank.com/vanessa_landayan) and [CodeSignal](https://app.codesignal.com/profile/vanessaland).
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/vanessalandayan/)!
 
 <!--
