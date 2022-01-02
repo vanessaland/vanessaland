@@ -6,7 +6,7 @@ My name is Vanessa, welcome to my GitHub profile!
 - 🔭 I’m currently interested in data science and software engineering.
 - 😄 My pronouns are she/her/hers.
 - ⚡ A fun fact about me is I love music, art, and food.
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/vanessalandayan/)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/vanessalandayan/)!
 
 <!--
 **vanessaland/vanessaland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
