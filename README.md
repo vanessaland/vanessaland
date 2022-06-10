@@ -2,11 +2,10 @@
 
 My name is Vanessa, welcome to my GitHub profile!
 
-- 🌱 I’m a Computer Science student at Ryerson University in Toronto, ON, Canada.
-- 🔭 I’m currently interested in software engineering and data science.
+- 🌱 I’m a Computer Science student at Toronto Metropolitan University in Toronto, ON, Canada.
+- 🔭 I’m currently interested in software engineering.
 - 😄 My pronouns are she/her/hers.
 - ⚡ A fun fact about me is I love music, art, and food.
-- 💻 I practice algorithms and data structures using [HackerRank](https://www.hackerrank.com/vanessa_landayan) and [CodeSignal](https://app.codesignal.com/profile/vanessaland).
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/vanessalandayan/)!
 
 <!--
