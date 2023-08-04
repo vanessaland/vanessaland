@@ -2,10 +2,9 @@
 
 My name is Vanessa, welcome to my GitHub profile!
 
-- 🌱 I’m a Computer Science student at Toronto Metropolitan University in Toronto, ON, Canada.
-- 🔭 I’m currently interested in software engineering.
+- 💻 I'm currently a Software Engineer I.
+- 🎓 Graduated from Toronto Metropolitan University in Canada with a B.Sc. in Computer Science (Co-op)
 - 😄 My pronouns are she/her/hers.
-- ⚡ A fun fact about me is I love music, art, and food.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/vanessalandayan/)!
 
 <!--
