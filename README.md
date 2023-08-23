@@ -4,7 +4,6 @@ My name is Vanessa, welcome to my GitHub profile!
 
 - 💻 I'm currently a Software Engineer I.
 - 🎓 Graduated from Toronto Metropolitan University in Canada with a B.Sc. in Computer Science (Co-op)
-- 😄 My pronouns are she/her/hers.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/vanessalandayan/)!
 
 <!--
