@@ -3,7 +3,7 @@
 My name is Vanessa, welcome to my GitHub profile!
 
 - 💻 I'm currently a Software Engineer I.
-- 🎓 Graduated from Toronto Metropolitan University in Canada with a B.Sc. in Computer Science (Co-op)
+- 🎓 Graduated from Toronto Metropolitan University (formerly Ryerson University) with a B.Sc. in Computer Science (Co-op) in June 2023.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/vanessalandayan/)!
 
 <!--
